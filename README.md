@@ -1,5 +1,7 @@
 # UCM Connect API
 
+**Live API:** [api.ucm-connect.sk](https://api.ucm-connect.sk) &nbsp;|&nbsp; **Frontend:** [ucm-connect.sk](https://ucm-connect.sk)
+
 Backend REST API for **UCM Connect** — a student community platform built as a bachelor's thesis project at the University of SS. Cyril and Methodius in Trnava (UCM).
 
 Students can share study materials (PDFs, images, ZIP files) organized by subject, comment on posts, and like content. Authentication is handled entirely via AWS Cognito with JWT tokens.
