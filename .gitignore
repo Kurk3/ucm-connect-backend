@@ -1,0 +1,76 @@
+HELP.md
+.DS_Store
+docs/
+odborna-prax/
+prezentacia/
+bc-work-1/
+bc-work-2/
+bc-work-context-1/
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Environment Variables ###
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+### AWS Elastic Beanstalk ###
+.elasticbeanstalk/
+.ebextensions/*
+!.ebextensions/*.config
+!.ebextensions/*.yaml
+
+### Deployment ###
+*.pem
+*.key
+aws-credentials.json
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+### Sensitive / Personal ###
+seed-data/
+seed-production-data.sh
+test-password-reset.sh
+application.jar
+*.jar
+
+### Open Source — excluded from public repo ###
+src/test/
+CLAUDE.md
+.run/
+.ebextensions/
