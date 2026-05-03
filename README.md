@@ -1,6 +1,6 @@
 # UCM Connect API
 
-**Live API:** [api.ucm-connect.sk](https://api.ucm-connect.sk) &nbsp;|&nbsp; **Frontend:** [ucm-connect.sk](https://ucm-connect.sk)
+**Live API:** [api.ucm-connect.sk](https://api.ucm-connect.sk) &nbsp;|&nbsp; **Frontend:** [ucm-connect.sk](https://ucm-connect.sk) &nbsp;|&nbsp; **Frontend repo:** [ucm-connect-frontend](https://github.com/Kurk3/ucm-connect-frontend)
 
 Backend REST API for **UCM Connect** — a student community platform built as a bachelor's thesis project at the University of SS. Cyril and Methodius in Trnava (UCM).
 
